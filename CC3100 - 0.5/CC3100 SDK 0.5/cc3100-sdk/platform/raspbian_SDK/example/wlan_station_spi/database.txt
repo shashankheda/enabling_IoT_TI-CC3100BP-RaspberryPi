@@ -1,0 +1,6 @@
+
+Starting Wlan Station with SPI
+SSID NAME is 'cc3200demo'
+WLAN Connecting...
+WLAN Connected
+LAN connection successful, Internet connection successful

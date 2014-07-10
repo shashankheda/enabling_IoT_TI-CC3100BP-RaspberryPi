@@ -1,0 +1,9 @@
+Spi Test Begin
+Spi Open Passed
+Device Disable Passed
+Device Enable Passed
+Host IRQ Passed
+Spi Write Passed
+Spi Read Passed
+Spi Init read complete Passed
+Spi Test Completed
